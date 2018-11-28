@@ -9,3 +9,22 @@ p{
 .buttonHolder{
   text-align: center;
 }
+
+.c4Table{
+  text-align: center;
+}
+
+td button{
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin: 5px;
+  border-radius: 50px;
+}
+
+table{
+  margin: 0px auto;
+  border-left: 5px solid blue;
+  border-right: 5px solid blue;
+  border-bottom: 5px solid blue;
+}
